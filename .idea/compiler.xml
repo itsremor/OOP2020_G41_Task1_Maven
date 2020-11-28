@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="OOP2020_G41_Task1" target="13" />
+      <module name="OOP2020_G41_Task1" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
